@@ -26,5 +26,5 @@ public class HelloWorld {
 }
 
 
-Copyright © 2000–2011, Robert Sedgewick and Kevin Wayne. 
-Last updated: Tue Aug 30 09:58:33 EDT 
+//Copyright © 2000–2011, Robert Sedgewick and Kevin Wayne. 
+//Last updated: Tue Aug 30 09:58:33 EDT 
